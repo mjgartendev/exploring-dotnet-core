@@ -50,7 +50,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.15" />
     <PackageReference Include="NSwag.AspNetCore" Version="11.18.3" />
   </ItemGroup>
 
